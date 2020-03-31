@@ -1,5 +1,5 @@
-# asmael-1987-hotmail.com
-UDP-CAN-data-transfer
+
+#UDP-CAN-data-transfer
 # TCP-CAN
 if we need to run the app and no real device the so we have to init virtual on ubuntu :
 1- open terminal and write this command:
